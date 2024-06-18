@@ -407,7 +407,7 @@ sns.heatmap(data.isnull())
 
 
     
-![png](output_12_1.png)
+![png](readme/output_12_1.png)
     
 
 
@@ -530,7 +530,7 @@ plt.show()
 
 
     
-![png](output_20_0.png)
+![png](readme/output_20_0.png)
     
 
 
@@ -548,7 +548,7 @@ data.plot()
 
 
     
-![png](output_21_1.png)
+![png](readme/output_21_1.png)
     
 
 
@@ -567,7 +567,7 @@ data.plot(kind = 'line', subplots = True)
 
 
     
-![png](output_22_1.png)
+![png](readme/output_22_1.png)
     
 
 
@@ -585,7 +585,7 @@ data.boxplot(figsize=(20,15))
 
 
     
-![png](output_23_1.png)
+![png](readme/output_23_1.png)
     
 
 
@@ -611,7 +611,7 @@ data.hist(figsize=(20,15))
 
 
     
-![png](output_24_1.png)
+![png](readme/output_24_1.png)
     
 
 
