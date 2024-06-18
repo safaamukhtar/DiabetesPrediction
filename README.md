@@ -4,7 +4,7 @@
 
 # Diabetes EDA and ML prediction model
 
-### this is an EDA on Diagnostic measurements of a specific demographic (pima indian heritage, Females,at least 21 years old) and its relation to whether they have Diabetes or not. Data is collected by National Institute of Diabetes and Kidney diseases. Dataset is available on [kaggle](www.kaggle.com)
+### this is an EDA on Diagnostic measurements of a specific demographic (pima indian heritage, Females,at least 21 years old) and its relation to whether they have Diabetes or not. Data is collected by National Institute of Diabetes and Kidney diseases. Dataset is available on [kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 
 
 ### Import libraries
